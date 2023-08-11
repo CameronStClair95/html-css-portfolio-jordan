@@ -445,3 +445,25 @@ footer {
 footer p {
   text-align: center;
 }
+
+.audio-embed-container {
+  margin-top: 2rem; /* Adjust as needed */
+  max-width: 600px; /* Adjust as needed */
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1rem;
+  border-radius: 10px;
+}
+
+.audio-title {
+  font-size: 1.5rem;
+  margin-top: 1rem;
+  text-align: center;
+}
+
+.audio-description {
+  margin-top: 1rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  text-align: justify;
+}
